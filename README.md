@@ -41,10 +41,5 @@ Explorar y visualizar los datos para responder preguntas como:
 
 ---
 
-## 💼 Sobre mí
-
-👩🏻‍💻 Soy **Carolina Caycho**, profesional de Ventas con enfoque en Ciencia de Datos y experiencia en análisis comercial. Actualmente formándome como Data Scientist en **TripleTen** para unir mi experiencia en negocios con la inteligencia de datos.
-
-🔗 [Conéctate conmigo en LinkedIn](https://www.linkedin.com/in/carolina-caycho)
 
 ---
